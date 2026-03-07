@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-07T00:00:00Z",
+  "packs": [
+    { "filename": "aws.zip", "provider": "aws", "version": "2025-q3" },
+    {
+      "filename": "azure_public_service_icons_v23.zip",
+      "provider": "azure",
+      "version": "v23"
+    },
+    {
+      "filename": "category-icons.zip",
+      "provider": "gcp",
+      "version": "gcp-categories"
+    },
+    {
+      "filename": "core-products-icons.zip",
+      "provider": "gcp",
+      "version": "gcp-core-products"
+    },
+    {
+      "filename": "microsoft-365-content-icons-2024.zip",
+      "provider": "other",
+      "version": "ms365-2024"
+    },
+    {
+      "filename": "simple-other.zip",
+      "provider": "other",
+      "version": "2026-q1"
+    }
+  ]
+}
